@@ -1,0 +1,7 @@
+1、cmd命令行启动
+   进入项目目录，输入启动命令：mvn spring-boot:run
+
+2、项目部署时的方法
+   a.打包：进入项目目录，输入命令：mvn clean package
+   b.启动：输入启动命令：java -jar target/项目名称.jar
+
